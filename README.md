@@ -1,8 +1,18 @@
 # RoadGuard
-Final year B.Tech project.
-<div align='justify'>
+**Final year B.Tech project.** 
+<div align='left'>
   
-**Abstract:**
+**Team Members:**  <br>
+
+ENG20CT0002 - Abhijeet Sahoo   <br>
+ENG20CT0018 - Prajjwal Mishra  <br>
+ENG20CT0024 - Sathvik P  <br>
+ENG20CT0027 - Shubham Raj Kashyap  <br>
+</div>
+
+<div align='justify'>
+
+  <br>**Abstract:**
 
 According to the latest statistics disseminated by the World Health Organization (WHO),
 the global incidence of traffic accidents constitutes a profoundly disconcerting issue.
