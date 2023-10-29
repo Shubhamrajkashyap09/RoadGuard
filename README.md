@@ -63,7 +63,7 @@ regression,Neural network .
 
 <br><h2>**Model Flowchart:**</h2>
 
-![Blank diagram](https://github.com/phoenixAbhi2002/RoadGuard/assets/80543543/a8c6845b-db45-414a-b1e5-0f662e08cb3e)
+![Blank diagram](https://github.com/phoenixAbhi2002/RoadGuard/assets/80543543/d7203e64-2edc-46ae-8591-ac109e678dc9)
 
 <br><h2>**Road Map:**</h2>
 
