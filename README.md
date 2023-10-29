@@ -55,6 +55,4 @@ to the complex challenge of traffic accident prediction.
 **Keywords**: Traffic accidents,Road accident prediction,Probabilistic model,Logistic
 regression,Neural network .
 
-<br><h2>**Model Flowchart:**</h2>
-![Model Flowchart](https://github.com/phoenixAbhi2002/RoadGuard/blob/37644f0d525498a8feb706f6e17b19ad10fbbd2c/Model_Flowchart.png)
 </div>
