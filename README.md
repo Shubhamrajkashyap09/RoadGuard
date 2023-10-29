@@ -1,4 +1,5 @@
-# RoadGuard
+<h1 align='center'>RoadGuard</h1>
+
 **Final year B.Tech project.** 
 <div align='left'>
   
@@ -58,7 +59,8 @@ regression,Neural network .
 <br><h2>**Model Flowchart:**</h2>
 
 ![Blank diagram](https://github.com/phoenixAbhi2002/RoadGuard/assets/80543543/a8c6845b-db45-414a-b1e5-0f662e08cb3e)
-<br><h2>**Literature survey:**</h2>
+
+<br><br><h2>**Literature survey:**</h2>
 ![image](https://github.com/phoenixAbhi2002/RoadGuard/assets/101796438/4ca78f60-3e25-40cb-adac-3c9ea71f514b)
 ![image](https://github.com/phoenixAbhi2002/RoadGuard/assets/101796438/75e3370b-a64b-499f-a09b-a10487a9fe53)
 </div>
