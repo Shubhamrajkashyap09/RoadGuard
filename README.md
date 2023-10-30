@@ -73,7 +73,7 @@ regression,Neural network .
 
 ![Pitch Deck](https://github.com/phoenixAbhi2002/RoadGuard/assets/102012536/81720fe4-7260-4f92-b17c-7f502c7a87a4)
 
-<br><h2>**Inroduction Video:**</h2>
+<br><h2>**Introduction Video:**</h2>
 
 https://github.com/phoenixAbhi2002/RoadGuard/assets/102012536/b3a6ee77-79d2-4ddc-b157-c6abec295a39
 
