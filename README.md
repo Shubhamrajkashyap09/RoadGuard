@@ -56,6 +56,12 @@ to the complex challenge of traffic accident prediction.
 **Keywords**: Traffic accidents,Road accident prediction,Probabilistic model,Logistic
 regression,Neural network .
 
+<br><h2>**Problem Statement:**</h2>
+Road traffic injuries and fatalities constitute a critical global public health crisis, with an alarming 1.35 million deaths and 20~50 million nonfatal injuries reported annually by the World Health Organization (WHO). In India, the situation is dire, with over 1.5 lakh lives lost in road accidents in 2022 alone. The primary cause of these casualties is attributed to overspeeding vehicles. The Ministry of Road Transport and Highways' 2022 report revealed a 0.46% increase in road accidents compared to the previous year. Addressing this escalating problem is paramount to ensuring the safety and well-being of the public, necessitating urgent and comprehensive interventions in traffic management and safety protocols.
+
+<br><h2>**Proposed Solution:**</h2>
+An ML powered web app which predicts accidents severity based on the current conditions. It will be trained with 1.6 million accident records over 2005-2015. More data means greater accuracy. The purpose of such a model is to be able to predict which conditions will be more prone to accidents, and therefore take preventive measures. We will even try to locate more precisely future accidents in order to provide faster care and precaution service. According to the predicted severity, a message will be sent to the traffic police to take preventive measures.
+
 <br><h2>**Literature survey:**</h2>
 ![image](https://github.com/phoenixAbhi2002/RoadGuard/assets/101796438/4ca78f60-3e25-40cb-adac-3c9ea71f514b)
 ![image](https://github.com/phoenixAbhi2002/RoadGuard/assets/101796438/75e3370b-a64b-499f-a09b-a10487a9fe53)
