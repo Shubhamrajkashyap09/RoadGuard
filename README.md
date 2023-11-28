@@ -69,11 +69,12 @@ An ML powered web app which predicts accidents severity based on the current con
 
 <br><h2>**Project Architecture:**</h2>
 
-![Blank diagram](https://github.com/phoenixAbhi2002/RoadGuard/assets/80543543/d7203e64-2edc-46ae-8591-ac109e678dc9)
+
 
 <br><h2>**Model Flowchart:**</h2>
 
 ![Screenshot from 2023-10-30 10-22-49](https://github.com/phoenixAbhi2002/RoadGuard/assets/92420934/5a947ccd-724d-4489-876d-63eefaee4ea1)
+![Blank diagram](https://github.com/phoenixAbhi2002/RoadGuard/assets/80543543/d7203e64-2edc-46ae-8591-ac109e678dc9)
 
 <br><h2>**Road Map:**</h2>
 
