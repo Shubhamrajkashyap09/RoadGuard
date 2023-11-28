@@ -69,17 +69,19 @@ An ML powered web app which predicts accidents severity based on the current con
 
 <br><h2>**Project Architecture:**</h2>
 <p align="center">
-  <img width="460" height="500" src="https://github.com/phoenixAbhi2002/RoadGuard/assets/80543543/025ee6fd-7e49-4e22-bec9-4f9f35f9ddfb">
-  <img width="460" height="500" src="https://github.com/phoenixAbhi2002/RoadGuard/assets/80543543/ee3758e1-ffa9-4b7d-b1c9-1ecefabb3710">
-  <img width="460" height="500" src="https://github.com/phoenixAbhi2002/RoadGuard/assets/80543543/1c34e723-da22-4c26-b579-be6b6881d663">
-  <img width="460" height="500" src="https://github.com/phoenixAbhi2002/RoadGuard/assets/80543543/c5b4a961-e1fb-4897-9397-bea3924058bf">
+  <img width="460" height="700" src="https://github.com/phoenixAbhi2002/RoadGuard/assets/80543543/025ee6fd-7e49-4e22-bec9-4f9f35f9ddfb">
+  <img width="460" height="700" src="https://github.com/phoenixAbhi2002/RoadGuard/assets/80543543/ee3758e1-ffa9-4b7d-b1c9-1ecefabb3710">
+  <img width="460" height="700" src="https://github.com/phoenixAbhi2002/RoadGuard/assets/80543543/1c34e723-da22-4c26-b579-be6b6881d663">
+  <img width="460" height="700" src="https://github.com/phoenixAbhi2002/RoadGuard/assets/80543543/c5b4a961-e1fb-4897-9397-bea3924058bf">
 </p>
 
 <br><h2>**Model Flowchart:**</h2>
+<p align="center">
+  <img width="460" height="700" src="https://github.com/phoenixAbhi2002/RoadGuard/assets/92420934/5a947ccd-724d-4489-876d-63eefaee4ea1">
+  ![Blank diagram](https://github.com/phoenixAbhi2002/RoadGuard/assets/80543543/d7203e64-2edc-46ae-8591-ac109e678dc9)
+</p>
 
-![Screenshot from 2023-10-30 10-22-49](https://github.com/phoenixAbhi2002/RoadGuard/assets/92420934/5a947ccd-724d-4489-876d-63eefaee4ea1)
 
-![Blank diagram](https://github.com/phoenixAbhi2002/RoadGuard/assets/80543543/d7203e64-2edc-46ae-8591-ac109e678dc9)
 
 <br><h2>**Road Map:**</h2>
 
