@@ -68,10 +68,10 @@ An ML powered web app which predicts accidents severity based on the current con
 </div>
 
 <br><h2>**Project Architecture:**</h2>
-![c1](https://github.com/phoenixAbhi2002/RoadGuard/assets/80543543/025ee6fd-7e49-4e22-bec9-4f9f35f9ddfb)
-![c2](https://github.com/phoenixAbhi2002/RoadGuard/assets/80543543/ee3758e1-ffa9-4b7d-b1c9-1ecefabb3710)
-![c3](https://github.com/phoenixAbhi2002/RoadGuard/assets/80543543/1c34e723-da22-4c26-b579-be6b6881d663)
-![c4](https://github.com/phoenixAbhi2002/RoadGuard/assets/80543543/c5b4a961-e1fb-4897-9397-bea3924058bf)
+![c1](https://github.com/phoenixAbhi2002/RoadGuard/assets/80543543/025ee6fd-7e49-4e22-bec9-4f9f35f9ddfb | width=150))
+![c2](https://github.com/phoenixAbhi2002/RoadGuard/assets/80543543/ee3758e1-ffa9-4b7d-b1c9-1ecefabb3710 | width=150))
+![c3](https://github.com/phoenixAbhi2002/RoadGuard/assets/80543543/1c34e723-da22-4c26-b579-be6b6881d663 | width=150))
+![c4](https://github.com/phoenixAbhi2002/RoadGuard/assets/80543543/c5b4a961-e1fb-4897-9397-bea3924058bf | width=150))
 
 <br><h2>**Model Flowchart:**</h2>
 
